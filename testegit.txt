@@ -1,3 +1,5 @@
 teste para a aula de git (repositório)
 
 alterando o teste
+
+adicionando mais coisas ao meu projeto - teste
